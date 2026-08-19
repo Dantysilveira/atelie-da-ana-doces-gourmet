@@ -207,7 +207,7 @@ body {
     height: 75px !important;
     max-width: 75px !important;
     max-height: 75px !important;
-    border-radius: 12px;
+    border-radius: 8px;
     object-fit: cover;
     flex-shrink: 0;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
